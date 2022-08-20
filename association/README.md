@@ -1,1 +1,1 @@
-<img src="/img/uml.png" alt="uml">
+<img src="img/uml.png" alt="uml">
